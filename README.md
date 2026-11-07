@@ -29,12 +29,6 @@ project3/
 └── README.md
 ```
 
-## Working with Codex
-
-Ask for one concrete task at a time, for example: “Explain this file”, “Add input validation to …”, or “Review the changes for bugs”. I can inspect and edit project files, explain Python or Git concepts, help debug errors you paste or run, and prepare commits or GitHub changes. I’ll describe important edits and can show diffs before you commit or publish them.
-
-You stay in control of decisions like what the app should do and whether work should be committed or pushed. Mention constraints such as “keep it beginner-friendly” or “don’t change the public API” when they matter. For coding tasks, tell me the expected behavior and how you’ll know it works.
-
 Useful Git commands:
 
 ```powershell
